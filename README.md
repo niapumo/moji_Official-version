@@ -1,3 +1,5 @@
 # niao_Official-version
-この Web サイトは、学習用のオープンソース Web サイトであり、TTF フォントなどのユーザー調整をサポートするソフトウェアです。
-new_folder/README.md
+The purpose of the open source website:
+1. It is a learning and open source website and software that supports user adjustments.
+2. Users are not currently supported to change its sub-content.
+3. If you want to add teaching materials (such as pdf files), please wait until this version number 4.1.04 is released.
